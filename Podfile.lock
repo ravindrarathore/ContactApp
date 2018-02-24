@@ -1,0 +1,12 @@
+PODS:
+  - DSGradientProgressView (1.0.0)
+
+DEPENDENCIES:
+  - DSGradientProgressView
+
+SPEC CHECKSUMS:
+  DSGradientProgressView: b591b4dfc6a7491fbd1f8dedee7a6ce02b23640f
+
+PODFILE CHECKSUM: 7c3ad57945e55394baa1794004c561445c751654
+
+COCOAPODS: 1.3.1
